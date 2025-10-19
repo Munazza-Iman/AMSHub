@@ -1,0 +1,6 @@
+.right{
+    height: max-content;
+    position: sticky;
+    top: var(--stickt-top-right);
+    /* z-index: -1; button was not working*/ 
+}
